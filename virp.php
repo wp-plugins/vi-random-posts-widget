@@ -3,7 +3,7 @@
  * Plugin Name:  VI Random Posts
  * Plugin URI:   https://wordpress.org/plugins/vi-random-posts-widget/
  * Description:  Display Your Post With Highly Customising Options Using Widget and Shortcode 
- * Version:      1.0.2
+ * Version:      1.0.2.1
  * Author:       Vivacity Infotech PVT. LTD.
  * Author URI:   http://vivacityinfotech.com/
  * Author Email: info@vivacityinfotech.com

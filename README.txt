@@ -37,6 +37,10 @@ If You Want more functionality or some modifications, just drop us a line what y
 
 
 == Changelog ==
+= 1.0.2.1 =
+
+* Added shortcode for filters.
+
 = 1.0.2 =
 
 * Added functionality for filtering post by categories using shortcode.
