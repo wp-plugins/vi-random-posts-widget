@@ -4,7 +4,7 @@ Donate link: http://tinyurl.com/owxtkmt
 Tags:random post,random post widget, post widget,latest post widget, custom post type widget,custom post widget,post thumbs widget
 Requires at least: 3.0
 Tested up to: 4.1
-
+Stable tag: 1.0
 
 == Description ==
 Vi Random Posts Widget plugin allows us to create a custom random or category posts list as a widget. It gives you a list of random posts via shortcode or widget with thumbnail, excerpt and post date, also you can display it from your custom post type or from a post category.
@@ -37,14 +37,18 @@ If You Want more functionality or some modifications, just drop us a line what y
 
 
 == Changelog ==
+= 1.0.2 =
+
+* Added functionality for filtering post by categories using shortcode.
+
+= 1.0.1 =
+
+* Solved Designing Issues
 
 = 1.0 =
 
 * Initial Release.
 
-= 1.0.1 =
-
-* Solved Designing Issues
 == Installation ==
 
 

@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name:  VI Random Posts
- * Plugin URI:   https://vivacityinfotech.net/vi-random-posts-widget/
+ * Plugin URI:   https://wordpress.org/plugins/vi-random-posts-widget/
  * Description:  Display Your Post With Highly Customising Options Using Widget and Shortcode 
- * Version:      1.0.1
- * Author:       Vivacity Infotech Pvt. Ltd.
- * Author URI:   http://vivacityinfotech.net/
- * Author Email: support@vivacityinfotech.net
+ * Version:      1.0.2
+ * Author:       Vivacity Infotech PVT. LTD.
+ * Author URI:   http://vivacityinfotech.com/
+ * Author Email: info@vivacityinfotech.com
  *
  * @package    VI_Random_Posts
- * @since      1.0.1
+ * @since      1.0.0
  * @author     Vivacity Infotech PVT. LTD.
  * @copyright  Copyright (c) 2014, Vivacity Infotech PVT. LTD.
  * @license    http://www.gnu.org/licenses/gpl-2.0.html

@@ -96,13 +96,13 @@
 
 		<p>
 			<label for="<?php echo $this->get_field_id( 'thumbnail_width' ); ?>">
-				<?php _e( 'Width', 'virp' ); ?>
+				<?php _e( 'Width(px)', 'virp' ); ?>
 			</label>
 			<input id="<?php echo $this->get_field_id( 'thumbnail_width' ); ?>" name="<?php echo $this->get_field_name( 'thumbnail_width' ); ?>" type="text" value="<?php echo (int)( $instance['thumbnail_width'] ); ?>" />
 		</p>
 		<p>	
 			<label for="<?php echo $this->get_field_id( 'thumbnail_width' ); ?>">
-				<?php _e( 'Height', 'virp' ); ?>
+				<?php _e( 'Height(px)', 'virp' ); ?>
 			</label>
 			<input id="<?php echo $this->get_field_id( 'thumbnail_height' ); ?>" name="<?php echo $this->get_field_name( 'thumbnail_height' ); ?>" type="text" value="<?php echo (int)( $instance['thumbnail_height'] ); ?>" />
 		</p>

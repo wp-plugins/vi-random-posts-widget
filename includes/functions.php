@@ -56,7 +56,6 @@ function virp_get_random_posts( $args = array() ) {
 	$args = wp_parse_args( $args, $defaults );
 
 	extract( $args );
-
 	do_action( 'virp_before_loop' );
 	
 	$posts = virp_get_posts( $args );
