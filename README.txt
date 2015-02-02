@@ -37,14 +37,18 @@ If You Want more functionality or some modifications, just drop us a line what y
 
 
 == Changelog ==
+= 1.0.2 =
+
+* Added functionality for filtering post by categories using shortcode.
+
+= 1.0.1 =
+
+* Solved Designing Issues
 
 = 1.0 =
 
 * Initial Release.
 
-= 1.0.1 =
-
-* Solved Designing Issues
 == Installation ==
 
 
