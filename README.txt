@@ -3,7 +3,7 @@ Contributors: vivacityinfotech.jaipur
 Donate link: http://tinyurl.com/owxtkmt
 Tags:random post,random post widget, post widget,latest post widget, custom post type widget,custom post widget,post thumbs widget
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 
 
 == Description ==
